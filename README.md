@@ -10,3 +10,4 @@ This repository contains the complete WordPress export data (`.xml` file) for th
 2. Go to the WordPress Dashboard -> **Tools** -> **Import**.
 3. Install and run the **WordPress Importer**.
 4. Upload the provided `.xml` file to restore the complete project data and content.
+https://drive.google.com/file/d/1b36Zl-LeUrTbm6fVN9eDeYg1pXksjEHD/view?usp=sharing
